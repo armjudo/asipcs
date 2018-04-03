@@ -1,2 +1,3 @@
 # asipcs
-Armenian State Institute of Physical Culture and Sport
+Hi students.
+I am a student at ASIPCS.
